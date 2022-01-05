@@ -1,0 +1,15 @@
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/bin/Debug/netstandard2.0/ToDoListApp.deps.json
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/bin/Debug/netstandard2.0/ToDoListApp.dll
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/bin/Debug/netstandard2.0/ref/ToDoListApp.dll
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/bin/Debug/netstandard2.0/ToDoListApp.pdb
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.csproj.AssemblyReference.cache
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.AssemblyInfoInputs.cache
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.AssemblyInfo.cs
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.csproj.CoreCompileInputs.cache
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.dll
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ref/ToDoListApp.dll
+/Users/martinwhitman/Projects/ToDoListApp/ToDoListApp/ToDoListApp/obj/Debug/netstandard2.0/ToDoListApp.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{07BE89B1-0D22-4DBF-A890-719044D05403}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToDoListApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListApp/ToDoListApp/MainPage.xaml">
+    <Files>
+      <File FileName="ToDoListApp/ToDoListApp/MainPage.xaml" Line="14" Column="45" />
+      <File FileName="ToDoListApp/ToDoListApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ToDoListApp/ToDoListApp/ToDoItem.cs" Line="1" Column="1" />
+      <File FileName="ToDoListApp/ToDoListApp/TodoListViewModel.cs" Line="11" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListApp" expanded="True">
+            <Node name="ToDoListApp" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_5x_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.ToDoListApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ToDoListApp.Android FirstBuild="True" PreferredExecutionTarget="Android.nexus_5x_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
